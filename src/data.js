@@ -58,6 +58,8 @@ export const data = {
       profileImg: "/Assets/alikam/profile.jpeg",
       profileName: "Dr Jagan Kakarala",
       images: [
+        "./Assets/alikam/img 1.jpeg",
+        "./Assets/alikam/img 2.jpeg",
         "./Assets/alikam/img (11).jpeg",
         "./Assets/alikam/img (5).webp",
         "./Assets/alikam/img (6).webp",

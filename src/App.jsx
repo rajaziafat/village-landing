@@ -98,8 +98,7 @@ function App() {
             <h1>Goal:</h1>
             <p>
               Screen 75 villages for; Hypertension, Diabetes, Anemia, Chronic
-              Kidney disease, Hyperlipidemia 75 years of Independence on the eve
-              of 75 years of Independence
+              Kidney disease, Hyperlipidemia 75 years of Independence .
             </p>
           </div>
           <div className="objective">
